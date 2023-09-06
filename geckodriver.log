@@ -1,0 +1,1073 @@
+1638216584821	geckodriver	INFO	Listening on 127.0.0.1:63812
+1638216587670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileD7ASVe"
+1638216588929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileD7ASVe\\search.json.mozlz4", (void 0)))
+1638216591887	Marionette	INFO	Listening on port 63821
+1638216592339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638216700823	Marionette	INFO	Stopped listening on port 63821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638216724348	geckodriver	INFO	Listening on 127.0.0.1:64216
+1638216727347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile9Pver0"
+1638216728467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile9Pver0\\search.json.mozlz4", (void 0)))
+1638216730508	Marionette	INFO	Listening on port 64225
+1638216730655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638216900731	Marionette	INFO	Stopped listening on port 64225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zlz4", (void 0)))
+1638216859079	Marionette	INFO	Listening on port 64387
+1638216859404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638217207929	Marionette	INFO	Stopped listening on port 64387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zlz4", (void 0)))
+1638217153465	Marionette	INFO	Listening on port 64536
+1638217153922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638217206312	Marionette	INFO	Stopped listening on port 64536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638217458408	geckodriver	INFO	Listening on 127.0.0.1:64704
+1638217461390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileDYvtB7"
+1638217462278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileDYvtB7\\search.json.mozlz4", (void 0)))
+1638217464265	Marionette	INFO	Listening on port 64714
+1638217464449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638218133943	Marionette	INFO	Stopped listening on port 64714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+his session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638218135754	Marionette	INFO	Stopped listening on port 64867
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+his session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638218137549	Marionette	INFO	Stopped listening on port 65012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zlz4", (void 0)))
+1638218094179	Marionette	INFO	Listening on port 65202
+1638218094313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638218139342	Marionette	INFO	Stopped listening on port 65202
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638218164406	geckodriver	INFO	Listening on 127.0.0.1:65344
+1638218167436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileatrcD7"
+1638218169627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileatrcD7\\search.json.mozlz4", (void 0)))
+1638218172500	Marionette	INFO	Listening on port 65352
+1638218172816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638219853629	Marionette	INFO	Stopped listening on port 65352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638219855172	Marionette	INFO	Stopped listening on port 65513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638219856441	Marionette	INFO	Stopped listening on port 49291
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+in.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638218957140	Marionette	INFO	Stopped listening on port 49514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638219214250	geckodriver	INFO	Listening on 127.0.0.1:49728
+1638219217253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePYUOzk"
+1638219218169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePYUOzk\\search.json.mozlz4", (void 0)))
+1638219220160	Marionette	INFO	Listening on port 49736
+1638219220442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638219850506	Marionette	INFO	Stopped listening on port 49736
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ers\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileshxZOM\\search.json.mozlz4", (void 0)))
+1638219566910	Marionette	INFO	Listening on port 49899
+1638219567310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638219851389	Marionette	INFO	Stopped listening on port 49899
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ld not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileAM6Kyf\\search.json.mozlz4", (void 0)))
+1638219789486	Marionette	INFO	Listening on port 50072
+1638219789874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638219860830	Marionette	INFO	Stopped listening on port 50072
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Compo1638219861408	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilevzLe8Q\\search.json.mozlz4", (void 0)))
+1638219863505	Marionette	INFO	Listening on port 50242
+1638219863813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638219885846	Marionette	INFO	Stopped listening on port 50242
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638219936732	geckodriver	INFO	Listening on 127.0.0.1:50379
+1638219939764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilezoQIZ1"
+1638219940747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilezoQIZ1\\search.json.mozlz4", (void 0)))
+1638219942624	Marionette	INFO	Listening on port 50388
+1638219942924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638220387445	Marionette	INFO	Stopped listening on port 50388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zlz4", (void 0)))
+1638220291699	Marionette	INFO	Listening on port 50656
+1638220292088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638220385957	Marionette	INFO	Stopped listening on port 50656
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638220611954	geckodriver	INFO	Listening on 127.0.0.1:50989
+1638220615007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilecBjTo4"
+1638220616052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilecBjTo4\\search.json.mozlz4", (void 0)))
+1638220618036	Marionette	INFO	Listening on port 50997
+1638220618238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638223281978	Marionette	INFO	Stopped listening on port 50997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638223281004	Marionette	INFO	Stopped listening on port 51139
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638280145132	geckodriver	INFO	Listening on 127.0.0.1:56986
+1638280148119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileJHIQVl"
+1638280149095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileJHIQVl\\search.json.mozlz4", (void 0)))
+1638280151447	Marionette	INFO	Listening on port 56994
+1638280151827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638280221807	Marionette	INFO	Stopped listening on port 56994
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638453044409	geckodriver	INFO	Listening on 127.0.0.1:49981
+1638453047360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileAbeCAY"
+1638453048712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileAbeCAY\\search.json.mozlz4", (void 0)))
+1638453051500	Marionette	INFO	Listening on port 49989
+1638453051862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638453361767	Marionette	INFO	Stopped listening on port 49989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ld not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile7B9m0R\\search.json.mozlz4", (void 0)))
+1638453231252	Marionette	INFO	Listening on port 50143
+1638453231476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638453360994	Marionette	INFO	Stopped listening on port 50143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638453404980	geckodriver	INFO	Listening on 127.0.0.1:50287
+1638453407996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile4FiJHe"
+1638453409122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile4FiJHe\\search.json.mozlz4", (void 0)))
+1638453411663	Marionette	INFO	Listening on port 50295
+1638453412144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638453528586	Marionette	INFO	Stopped listening on port 50295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638453967228	geckodriver	INFO	Listening on 127.0.0.1:50722
+1638453970253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilevYsxQj"
+1638453970975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilevYsxQj\\search.json.mozlz4", (void 0)))
+1638453973648	Marionette	INFO	Listening on port 50730
+1638453973955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638454250365	Marionette	INFO	Stopped listening on port 50730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638454926056	geckodriver	INFO	Listening on 127.0.0.1:54921
+1638454929025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofiled8T04J"
+1638454930178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofiled8T04J\\search.json.mozlz4", (void 0)))
+1638454933003	Marionette	INFO	Listening on port 54929
+1638454933074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638455016471	Marionette	INFO	Stopped listening on port 54929
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638455037673	geckodriver	INFO	Listening on 127.0.0.1:55298
+1638455040676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilesUXS83"
+1638455042081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilesUXS83\\search.json.mozlz4", (void 0)))
+1638455044102	Marionette	INFO	Listening on port 55306
+1638455044618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638455248495	Marionette	INFO	Stopped listening on port 55306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638455284024	geckodriver	INFO	Listening on 127.0.0.1:55449
+1638455287049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile3qPrUY"
+1638455288233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile3qPrUY\\search.json.mozlz4", (void 0)))
+1638455290204	Marionette	INFO	Listening on port 55457
+1638455290313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638455342281	Marionette	INFO	Stopped listening on port 55457
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638455362284	geckodriver	INFO	Listening on 127.0.0.1:55602
+1638455365215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilenTvImj"
+1638455366253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilenTvImj\\search.json.mozlz4", (void 0)))
+1638455368161	Marionette	INFO	Listening on port 55610
+1638455368373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638456642474	Marionette	INFO	Stopped listening on port 55610
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638456002402	Marionette	INFO	Stopped listening on port 55977
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638456321895	geckodriver	INFO	Listening on 127.0.0.1:56602
+1638456324851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileMakAEf"
+1638456325717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileMakAEf\\search.json.mozlz4", (void 0)))
+1638456327927	Marionette	INFO	Listening on port 56610
+1638456328103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638456395942	Marionette	INFO	Stopped listening on port 56610
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638456556792	geckodriver	INFO	Listening on 127.0.0.1:56922
+1638456559758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileTVaaBE"
+1638456560696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileTVaaBE\\search.json.mozlz4", (void 0)))
+1638456562949	Marionette	INFO	Listening on port 56931
+1638456563052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638456639083	Marionette	INFO	Stopped listening on port 56931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638456660398	geckodriver	INFO	Listening on 127.0.0.1:57197
+1638456663331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileiCbPmA"
+1638456664540	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileiCbPmA\\search.json.mozlz4", (void 0)))
+1638456666474	Marionette	INFO	Listening on port 57207
+1638456666640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638456772424	Marionette	INFO	Stopped listening on port 57207
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638456866015	geckodriver	INFO	Listening on 127.0.0.1:57599
+1638456869075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileihlWjS"
+1638456870104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileihlWjS\\search.json.mozlz4", (void 0)))
+1638456872190	Marionette	INFO	Listening on port 57608
+1638456872695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457365543	Marionette	INFO	Stopped listening on port 57608
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ld not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileBLoRDE\\search.json.mozlz4", (void 0)))
+1638456911632	Marionette	INFO	Listening on port 57844
+1638456912135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457364315	Marionette	INFO	Stopped listening on port 57844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ld not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile8HJlPj\\search.json.mozlz4", (void 0)))
+1638457024084	Marionette	INFO	Listening on port 58729
+1638457024396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457360808	Marionette	INFO	Stopped listening on port 58729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ld not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileQRZaqP\\search.json.mozlz4", (void 0)))
+1638457171207	Marionette	INFO	Listening on port 60062
+1638457171436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457358597	Marionette	INFO	Stopped listening on port 60062
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zlz4", (void 0)))
+1638457219700	Marionette	INFO	Listening on port 60600
+1638457219794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457357900	Marionette	INFO	Stopped listening on port 60600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Invalid port. Exiting...
+1638457618535	geckodriver	INFO	Listening on 127.0.0.1:62207
+1638457621631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile0TnvHZ"
+1638457622747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile0TnvHZ\\search.json.mozlz4", (void 0)))
+1638457625356	Marionette	INFO	Listening on port 62216
+1638457625815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457779793	Marionette	INFO	Stopped listening on port 62216
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638457799254	geckodriver	INFO	Listening on 127.0.0.1:62431
+1638457802298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile91MPfD"
+1638457803367	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile91MPfD\\search.json.mozlz4", (void 0)))
+1638457805931	Marionette	INFO	Listening on port 62441
+1638457806419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457817257	Marionette	INFO	Stopped listening on port 62441
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638457827760	geckodriver	INFO	Listening on 127.0.0.1:62550
+1638457830820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileqdbVvU"
+1638457832034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileqdbVvU\\search.json.mozlz4", (void 0)))
+1638457834043	Marionette	INFO	Listening on port 62560
+1638457834138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638457868874	Marionette	INFO	Stopped listening on port 62560
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638457872418	geckodriver	INFO	Listening on 127.0.0.1:62674
+1638457875504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileNSbXdx"
+1638457876630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileNSbXdx\\search.json.mozlz4", (void 0)))
+1638457878639	Marionette	INFO	Listening on port 62684
+1638457878771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638458457086	Marionette	INFO	Stopped listening on port 62684
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileNRp54C\\search.json.mozlz4", (void 0)))
+1638458010876	Marionette	INFO	Listening on port 63071
+1638458011099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638458454617	Marionette	INFO	Stopped listening on port 63071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilelF7RCf\\search.json.mozlz4", (void 0)))
+1638458068271	Marionette	INFO	Listening on port 63239
+1638458068472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638458453888	Marionette	INFO	Stopped listening on port 63239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638458452728	Marionette	INFO	Stopped listening on port 63349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638458479645	geckodriver	INFO	Listening on 127.0.0.1:63696
+1638458482734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileHy8iwS"
+1638458483828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileHy8iwS\\search.json.mozlz4", (void 0)))
+1638458485760	Marionette	INFO	Listening on port 63705
+1638458485893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638458625053	Marionette	INFO	Stopped listening on port 63705
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638458699713	geckodriver	INFO	Listening on 127.0.0.1:64557
+1638458702728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileWgwUku"
+1638458703399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileWgwUku\\search.json.mozlz4", (void 0)))
+1638458705438	Marionette	INFO	Listening on port 64567
+1638458705919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638460348171	Marionette	INFO	Stopped listening on port 64567
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileeuUTTB"
+1638460250833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileeuUTTB\\search.json.mozlz4", (void 0)))
+1638460253236	Marionette	INFO	Listening on port 64839
+1638460253671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1638460347319	Marionette	INFO	Stopped listening on port 64839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638462569890	geckodriver	INFO	Listening on 127.0.0.1:53148
+1638462573015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePaAt0H"
+1638462574333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePaAt0H\\search.json.mozlz4", (void 0)))
+1638462576957	Marionette	INFO	Listening on port 53156
+1638462577229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638467338586	Marionette	INFO	Stopped listening on port 53156
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639147251628	geckodriver	INFO	Listening on 127.0.0.1:59283
+1639147254634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilelf0prN"
+1639147256696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilelf0prN\\search.json.mozlz4", (void 0)))
+1639147261644	Marionette	INFO	Listening on port 59318
+1639147262180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1639147733264	Marionette	INFO	Stopped listening on port 59318
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642603343790	geckodriver	INFO	Listening on 127.0.0.1:53630
+1642603346877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileNzJqCH"
+1642603347972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileNzJqCH\\search.json.mozlz4", (void 0)))
+1642603350905	Marionette	INFO	Listening on port 53639
+1642603351096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642603508235	Marionette	INFO	Stopped listening on port 53639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642603569392	geckodriver	INFO	Listening on 127.0.0.1:53753
+1642603572474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileMxGkR7"
+1642603573996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileMxGkR7\\search.json.mozlz4", (void 0)))
+1642603576130	Marionette	INFO	Listening on port 53762
+1642603576451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642603802853	Marionette	INFO	Stopped listening on port 53762
+2603644797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileDc7hMb"
+1642603645166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileDc7hMb\\search.json.mozlz4", (void 0)))
+1642603647831	Marionette	INFO	Listening on port 53865
+1642603647977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642603686265	Marionette	INFO	Stopped listening on port 53865
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+red for this session
+1642603681658	Marionette	INFO	Stopped listening on port 53958
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642603698996	geckodriver	INFO	Listening on 127.0.0.1:54030
+1642603702080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilebvGLku"
+1642603704147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilebvGLku\\search.json.mozlz4", (void 0)))
+1642603706840	Marionette	INFO	Listening on port 54041
+1642603706938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642603744167	Marionette	INFO	Stopped listening on port 54041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1642603948446	geckodriver	INFO	Listening on 127.0.0.1:54749
+1642603951495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileO4MuJJ"
+1642603952532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileO4MuJJ\\search.json.mozlz4", (void 0)))
+1642603955754	Marionette	INFO	Listening on port 54757
+1642603955843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642604202856	Marionette	INFO	Stopped listening on port 54757
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  3
+" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileITVLXt"
+1642604098331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileITVLXt\\search.json.mozlz4", (void 0)))
+1642604100788	Marionette	INFO	Listening on port 54870
+1642604101195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642604140220	Marionette	INFO	Stopped listening on port 54870
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642604340053	geckodriver	INFO	Listening on 127.0.0.1:55610
+1642604343103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileNF7GeA"
+1642604344179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileNF7GeA\\search.json.mozlz4", (void 0)))
+1642604347054	Marionette	INFO	Listening on port 55619
+1642604347322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642604392567	Marionette	INFO	Stopped listening on port 55619
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Carlos\AppData\Local\Temp\rust_mozprofilevRmR9K\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642611088946	geckodriver	INFO	Listening on 127.0.0.1:50095
+1642611092011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileGMp7hT"
+1642611093114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileGMp7hT\\search.json.mozlz4", (void 0)))
+1642611096213	Marionette	INFO	Listening on port 50105
+1642611096338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642611144777	Marionette	INFO	Stopped listening on port 50105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Stopped listening on port 50226
+1642612289080	geckodriver	INFO	Listening on 127.0.0.1:57339
+1642612292143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilex0MovA"
+1642612293089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilex0MovA\\search.json.mozlz4", (void 0)))
+1642612296045	Marionette	INFO	Listening on port 57350
+1642612296369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1642613216095	Marionette	INFO	Stopped listening on port 57350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642625450115	geckodriver	INFO	Listening on 127.0.0.1:51268
+1642625453238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofiletsyZBX"
+1642625454243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofiletsyZBX\\search.json.mozlz4", (void 0)))
+1642625456945	Marionette	INFO	Listening on port 51277
+1642625457466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642625663587	Marionette	INFO	Stopped listening on port 51271642625664435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilefKtLCm"
+1642625667832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilefKtLCm\\search.json.mozlz4", (void 0)))
+1642625670243	Marionette	INFO	Listening on port 51406
+1642625670403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642626034307	Marionette	INFO	Stopped listening on port 51406
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileau68Vf\\search.json.mozlz4", (void 0)))
+1642625809605	Marionette	INFO	Listening on port 50289
+1642625809720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642626033192	Marionette	INFO	Stopped listening on port 50289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileaqYBUC"
+1642625925863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileaqYBUC\\search.json.mozlz4", (void 0)))
+1642625928494	Marionette	INFO	Listening on port 50396
+1642625928639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642626032398	Marionette	INFO	Stopped listening on port 50396
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileKwq9WY"
+1642625978171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileKwq9WY\\search.json.mozlz4", (void 0)))
+1642625981264	Marionette	INFO	Listening on port 50475
+1642625981495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642626031577	Marionette	INFO	Stopped listening on port 50475
+1642626036909	geckodriver	INFO	Listening on 127.0.0.1:50582
+1642626039994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile309hYV"
+1642626041661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile309hYV\\search.json.mozlz4", (void 0)))
+1642626043929	Marionette	INFO	Listening on port 50593
+1642626044173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1642627022092	Marionette	INFO	Stopped listening on port 50593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+cal\\Temp\\rust_mozprofilehtzjt8"
+1642626111071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilehtzjt8\\search.json.mozlz4", (void 0)))
+1642626113374	Marionette	INFO	Listening on port 50691
+1642626113422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1642627020594	Marionette	INFO	Stopped listening on port 50691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642627572062	geckodriver	INFO	Listening on 127.0.0.1:63044
+1642627575153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePTthtf"
+1642627576160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePTthtf\\search.json.mozlz4", (void 0)))
+1642627579384	Marionette	INFO	Listening on port 63055
+1642627579502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1642700927573	Marionette	INFO	Stopped listening on port 63055
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642798174003	geckodriver	INFO	Listening on 127.0.0.1:57693
+1642798177072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile0z4d82"
+1642798178259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile0z4d82\\search.json.mozlz4", (void 0)))
+1642798181299	Marionette	INFO	Listening on port 57701
+1642798181398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1642802512557	Marionette	INFO	Stopped listening on port 57701
+2800762626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileHuseS6"
+1642800763301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileHuseS6\\search.json.mozlz4", (void 0)))
+1642800767140	Marionette	INFO	Listening on port 62176
+1642800767502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1642802511595	Marionette	INFO	Stopped listening on port 62176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilekNd6bb\\search.json.mozlz4", (void 0)))
+1642802116326	Marionette	INFO	Listening on port 64339
+1642802116723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1642802510397	Marionette	INFO	Stopped listening on port 64339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilerkgbw0\\search.json.mozlz4", (void 0)))
+1642802148133	Marionette	INFO	Listening on port 64560
+1642802148449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642802156475	Marionette	INFO	Stopped listening on port 64560
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Carlos\AppData\Local\Temp\rust_mozprofilerkgbw0\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643731475940	geckodriver	INFO	Listening on 127.0.0.1:49574
+1643731479025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileUfarVJ"
+1643731480153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileUfarVJ\\search.json.mozlz4", (void 0)))
+1643731482962	Marionette	INFO	Listening on port 49582
+1643731483253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643734095182	Marionette	INFO	Stopped listening on port 49582
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+cal\\Temp\\rust_mozprofilewwXejH"
+1643731848085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilewwXejH\\search.json.mozlz4", (void 0)))
+1643731850238	Marionette	INFO	Listening on port 56618
+1643731850428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1643732052230	Marionette	INFO	Stopped listening on port 56618
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643732056505	geckodriver	INFO	Listening on 127.0.0.1:56793
+1643732059589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilewqaGEl"
+1643732060659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilewqaGEl\\search.json.mozlz4", (void 0)))
+1643732062764	Marionette	INFO	Listening on port 56802
+1643732063005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1643732369172	Marionette	INFO	Stopped listening on port 56802
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileK7REc5"
+1643732192475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileK7REc5\\search.json.mozlz4", (void 0)))
+1643732196348	Marionette	INFO	Listening on port 56896
+1643732196408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1643732368258	Marionette	INFO	Stopped listening on port 56896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643732371771	geckodriver	INFO	Listening on 127.0.0.1:56997
+1643732374817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileaRYXzL"
+1643732375894	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileaRYXzL\\search.json.mozlz4", (void 0)))
+1643732378008	Marionette	INFO	Listening on port 57006
+1643732378259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1643732569511	Marionette	INFO	Stopped listening on port 57006
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilexCsOoC\\search.json.mozlz4", (void 0)))
+1643732519787	Marionette	INFO	Listening on port 57508
+1643732519938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643739745020	Marionette	INFO	Stopped listening on port 57508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+cal\\Temp\\rust_mozprofilejR964V"
+1643732784048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilejR964V\\search.json.mozlz4", (void 0)))
+1643732786230	Marionette	INFO	Listening on port 57657
+1643732786389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643734084003	Marionette	INFO	Stopped listening on port 57657
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+chSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilelris61\\search.json.mozlz4", (void 0)))
+1643733159705	Marionette	INFO	Listening on port 51518
+1643733159821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643734082172	Marionette	INFO	Stopped listening on port 51518
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643911369702	geckodriver	INFO	Listening on 127.0.0.1:49652
+1643911372735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile8WLxnr"
+1643911373917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile8WLxnr\\search.json.mozlz4", (void 0)))
+1643911376637	Marionette	INFO	Listening on port 49660
+1643911376959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643914529492	Marionette	INFO	Stopped listening on port 49660
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643914637963	geckodriver	INFO	Listening on 127.0.0.1:53962
+1643914641022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePLPeh4"
+1643914642194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePLPeh4\\search.json.mozlz4", (void 0)))
+1643914645541	Marionette	INFO	Listening on port 53985
+1643914645874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1643914762824	Marionette	INFO	Stopped listening on port 53985
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643916339187	geckodriver	INFO	Listening on 127.0.0.1:59793
+1643916342286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileWkH81d"
+1643916343331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileWkH81d\\search.json.mozlz4", (void 0)))
+1643916346117	Marionette	INFO	Listening on port 59805
+1643916346503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643917852292	Marionette	INFO	Stopped listening on port 59805
+3917787576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilez6mpp9"
+1643917789055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilez6mpp9\\search.json.mozlz4", (void 0)))
+1643917791900	Marionette	INFO	Listening on port 54669
+1643917792227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1643917849169	Marionette	INFO	Stopped listening on port 54669
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8
+1643917815278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643917823685	Marionette	INFO	Stopped listening on port 54898
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Carlos\AppData\Local\Temp\rust_mozprofileqUMcGw\protections.sqlite
+1644011591770	geckodriver	INFO	Listening on 127.0.0.1:62725
+1644011594840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileQYlOtt"
+1644011595729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileQYlOtt\\search.json.mozlz4", (void 0)))
+1644011598279	Marionette	INFO	Listening on port 62733
+1644011598587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+1644011640565	Marionette	INFO	Stopped listening on port 62733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644246631889	geckodriver	INFO	Listening on 127.0.0.1:49479
+1644246634964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofiler3EezE"
+1644246636041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofiler3EezE\\search.json.mozlz4", (void 0)))
+1644246638578	Marionette	INFO	Listening on port 49487
+1644246638699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+JavaScript error: http://10.1.10.33/Home.aspx, line 596: SecurityError: The operation is insecure.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1644267703503	Marionette	INFO	Stopped listening on port 49487
+1651256044817	geckodriver	INFO	Listening on 127.0.0.1:51387
+1651256047841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileT89SvO"
+1651256050390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileT89SvO\\search.json.mozlz4", (void 0)))
+1651256053276	Marionette	INFO	Listening on port 51395
+1651256053605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33:8082/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://10.1.10.33:8082/Home.aspx, line 598: SecurityError: The operation is insecure.
+1651256056527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651256141811	Marionette	INFO	Stopped listening on port 51395
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651258386345	geckodriver	INFO	Listening on 127.0.0.1:60057
+1651258389390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile09I9yX"
+1651258390404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile09I9yX\\search.json.mozlz4", (void 0)))
+1651258393019	Marionette	INFO	Listening on port 60066
+1651258393133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33:8082/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://10.1.10.33:8082/Home.aspx, line 598: SecurityError: The operation is insecure.
+1651258396966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651258442167	Marionette	INFO	Stopped listening on port 60066
+1651258587388	geckodriver	INFO	Listening on 127.0.0.1:49287
+1651258590403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilebLu2SQ"
+1651258591399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilebLu2SQ\\search.json.mozlz4", (void 0)))
+1651258595156	Marionette	INFO	Listening on port 49296
+1651258595260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33:8082/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://10.1.10.33:8082/Home.aspx, line 598: SecurityError: The operation is insecure.
+1651258599007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651258636573	Marionette	INFO	Stopped listening on port 49296
+1651258701995	geckodriver	INFO	Listening on 127.0.0.1:50160
+1651258705025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileJZBaUU"
+1651258705996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileJZBaUU\\search.json.mozlz4", (void 0)))
+1651258708888	Marionette	INFO	Listening on port 50188
+1651258709223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://10.1.10.33:8082/Login.aspx?ReturnUrl=%2fDefault.aspx, line 8: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.1.10.33:8082"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://10.1.10.33:8082/Home.aspx, line 598: SecurityError: The operation is insecure.
+1651258712001	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651258840131	Marionette	INFO	Stopped listening on port 50188
